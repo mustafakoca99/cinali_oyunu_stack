@@ -1,0 +1,20 @@
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\obj\Debug\StackOyun.csprojAssemblyReference.cache
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\obj\Debug\StackOyun.csproj.CoreCompileInputs.cache
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\bin\Debug\StackOyun.exe.config
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\bin\Debug\StackOyun.exe
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\bin\Debug\StackOyun.pdb
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\obj\Debug\StackOyun.exe
+C:\Users\merte\OneDrive\Masaüstü\DOSYALARIM\Nesne Tabanlı Programlama\StackOyun\StackOyun\obj\Debug\StackOyun.pdb
+C:\Users\Mustafa\Desktop\StackOyun\StackOyun\bin\Debug\StackOyun.exe.config
+C:\Users\Mustafa\Desktop\StackOyun\StackOyun\bin\Debug\StackOyun.exe
+C:\Users\Mustafa\Desktop\StackOyun\StackOyun\bin\Debug\StackOyun.pdb
+C:\Users\Mustafa\Desktop\StackOyun\StackOyun\obj\Debug\StackOyun.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\StackOyun\StackOyun\obj\Debug\StackOyun.exe
+C:\Users\Mustafa\Desktop\StackOyun\StackOyun\obj\Debug\StackOyun.pdb
+F:\StackOyun\StackOyun\bin\Debug\StackOyun.exe.config
+F:\StackOyun\StackOyun\bin\Debug\StackOyun.exe
+F:\StackOyun\StackOyun\bin\Debug\StackOyun.pdb
+F:\StackOyun\StackOyun\obj\Debug\StackOyun.csprojAssemblyReference.cache
+F:\StackOyun\StackOyun\obj\Debug\StackOyun.csproj.CoreCompileInputs.cache
+F:\StackOyun\StackOyun\obj\Debug\StackOyun.exe
+F:\StackOyun\StackOyun\obj\Debug\StackOyun.pdb
